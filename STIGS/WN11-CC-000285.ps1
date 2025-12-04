@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script configures the system to require secure RPC communication for Remote Desktop Session Host by setting the registry value fEncryptRPCTraffic to 1.
+    This Powershell script configures the system to require secure RPC communication for Remote Desktop Session Host by setting the registry value fEncryptRPCTraffic to 1.
 
 .NOTES
     Author          : Brandon Lilly
