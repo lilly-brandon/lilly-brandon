@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This Powershell script configures the system to turn off Microsoft consumer experiences by setting the registry value DisableWindowsConsumerFeatures to 1.
+    This PowerShell script configures the system to turn off Microsoft consumer experiences by setting the registry value DisableWindowsConsumerFeatures to 1.
 .NOTES
     Author          : Brandon Lilly
     LinkedIn        : https://www.linkedin.com/in/brandon-lilly-92743a392/
